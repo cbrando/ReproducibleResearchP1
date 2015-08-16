@@ -39,3 +39,4 @@ sum(is.na(data$steps))
 dataf<-data[complete.cases(data),]
 mbyday <- dataf %>% group_by(date)
 mn<-mbyday %>% mutate_each(funs(mean))
+#

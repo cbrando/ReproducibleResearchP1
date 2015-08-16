@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReproducibleResearch1
 Project 1 repository
 
@@ -109,3 +110,7 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 Please submit the URL pointing to your GitHub repository containing the documents for this assignment. (NOTE: Please submit the URL for the entire repository, not for any individual files.) 
 
 On a separate line, submit the SHA-1 hash identifier corresponding to the commit that contains the full submission (the identifier should be a string of 40 characters containing numbers 0-9 and letters a-f).
+=======
+# ReproducibleResearchP1
+Repository for Coursera course project #1
+>>>>>>> 59310d5087aaa442b06c1bd2b8fd00e7bdf42d53
