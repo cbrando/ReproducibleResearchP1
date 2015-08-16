@@ -41,3 +41,4 @@ mbyday <- dataf %>% group_by(date)
 mn<-mbyday %>% mutate_each(funs(mean))
 #
 
+
